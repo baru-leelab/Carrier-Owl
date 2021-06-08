@@ -3,7 +3,6 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
         resnet: 3
         audio: 1
 
