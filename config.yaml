@@ -5,7 +5,7 @@ subject: 'cat:cs.*'
 keywords:
         kaggle: 3
         resnet: 3
-        anomaly detection: 1
+        audio: 1
 
 # 通知の閾値
 score_threshold: 0
